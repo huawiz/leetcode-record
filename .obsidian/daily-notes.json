@@ -1,0 +1,6 @@
+{
+  "format": "\\l\\cYYYYMMDD",
+  "template": "",
+  "autorun": true,
+  "folder": "log/"
+}
