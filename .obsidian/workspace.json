@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "log/lc20240710.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "log/lc20240710.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "log/lc20240710.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "log/lc20240710.md"
               }
             }
           },
@@ -182,18 +182,19 @@
   },
   "active": "1b6e586ca429856e",
   "lastOpenFiles": [
+    "README.md",
+    "log/lc20240710.md",
     "0151-reverse-words-in-a-string/README.md",
+    "log",
     "0151-reverse-words-in-a-string/0151-reverse-words-in-a-string.cpp",
     "0151-reverse-words-in-a-string",
     "log/lc20240709.md",
-    "log/lc20240710.md",
     "course/Nand2Tetris/project1.md",
     "log/lc20240708.md",
     "log/lc20240701.md",
     "log/lc20240630.md",
     "log/lc20240627.md",
     "log/lc20240624.md",
-    "README.md",
     "~$LeetCode打卡记录.tmp",
     "course/CMU15-213(CSAPP)/note.md",
     "course/CMU15-213(CSAPP)",
@@ -209,7 +210,6 @@
     "1628A820",
     "course/你所不知道的C語言/學習紀錄.md",
     "course/你所不知道的C語言/README.md",
-    "7C3E3620",
     "@sysprog/c-programming.md",
     "2024-06-24.md"
   ]
