@@ -4,12 +4,15 @@ public:
         int slow = 0;
         for(int i =0;i<s.size();i++){
             if(s[i]!=' '){
+                //如果slow!=0代表在單字中間，補空格
                 if(slow!=0){s[slow++]= ' ';}
             }
+           //搬移快指針元素到慢指針 
             while(i<s.size() && s[i]!= ' '){
                 s[slow++] = s[i++];
             }
         }
+        //結束，重新fix字串長度
         s.resize(slow);
     }
     void reverse(string& s,int start,int end){
